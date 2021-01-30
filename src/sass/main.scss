@@ -1,0 +1,16 @@
+// base
+@import "./base/common";
+
+// components
+@import "./components/logo";
+
+// layout
+@import "./layout/footer";
+@import "./layout/header";
+@import "./layout/hero";
+@import "./layout/main_problems";
+@import "./layout/teacher";
+
+// utils
+@import "./utils/container";
+@import "./utils/variables";
